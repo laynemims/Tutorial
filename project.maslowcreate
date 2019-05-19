@@ -102,8 +102,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 164,
+                    "x": 1870,
+                    "y": 234,
                     "ioValues": []
                 }
             ],
@@ -152,8 +152,8 @@
                 {
                     "atomType": "Rectangle",
                     "name": "Rectangle",
-                    "x": 102,
-                    "y": 58,
+                    "x": 112,
+                    "y": 55,
                     "uniqueID": 632755,
                     "ioValues": [
                         {
@@ -169,8 +169,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 295,
-                    "y": 50,
+                    "x": 298,
+                    "y": 58,
                     "uniqueID": 225460,
                     "ioValues": [
                         {
@@ -315,8 +315,8 @@
                 {
                     "atomType": "Readme",
                     "name": "README",
-                    "x": 1238,
-                    "y": 123,
+                    "x": 1246,
+                    "y": 121,
                     "uniqueID": 650474,
                     "ioValues": [],
                     "readmeText": "The output of the program defines what will be displayed in the project thumbnail and what shape will be used for displaying changes over time. The output of the project should be connected to the output Atom. Each Molecule comes with one Output atom which cannot be deleted."
@@ -324,8 +324,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 164,
+                    "x": 1870,
+                    "y": 234,
                     "ioValues": []
                 }
             ],
